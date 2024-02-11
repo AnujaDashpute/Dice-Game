@@ -1,0 +1,48 @@
+.container
+{
+	background-color:#D8BFD8;
+	text-align:center;
+	margin:auto;
+	width:70%;
+}
+.dice
+{
+	text-align:center;
+	display:inline-block;
+}
+body
+{
+	background-image: url('DiceDice.png');
+}
+h1
+{
+	font-size:4rem;
+	font-family: cursive;
+	
+}
+h2
+{
+	font-size:2.5rem;
+	font-family: cursive;
+	
+}
+p
+{
+	font-size:2rem;
+	font-family: 'cambria',cursive;
+	//color: white;
+}
+img
+{
+	width:90%;
+	width:200px;
+	height:200px;
+}
+footer
+{
+	background-color:#D8BFD8;
+	text-align:center;
+	margin:auto;
+	width:70%;
+	font-size:1.5rem;
+}
